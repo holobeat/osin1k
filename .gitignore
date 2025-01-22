@@ -1,5 +1,7 @@
 /disk/*
 !/disk/.gitkeep
+zig-out
+.zig-cache
 *.map
 *.tar
 *.o
